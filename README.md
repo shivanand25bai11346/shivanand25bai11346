@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Shivanand Irappa Sangammanavar
 
-<!--
-**shivanand25bai11346/shivanand25bai11346** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Branch:** B.Tech in Computer Science Engineering (AI & ML)  
+**Year:** First Year  
+**Institution:** VIT Bhopal University  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am a first-year undergraduate student pursuing Computer Science Engineering with a specialization in Artificial Intelligence and Machine Learning. I have a strong interest in building a solid foundation in core computer science subjects while exploring the practical applications of AI and data-driven technologies.
+
+---
+
+## Career Objective
+My goal is to develop strong problem-solving skills and gain expertise in Data Structures, Algorithms, and Machine Learning. I aspire to become a proficient software engineer capable of developing impactful and real-world technology solutions.
+
+---
+
+## Let's Connect
+I am continuously learning and open to collaboration, guidance, and new opportunities in the field of technology.
